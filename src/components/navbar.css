@@ -26,10 +26,12 @@ span {
 .link {
     text-decoration: none;
 }
+
 li.nav-text:hover {
     background-color: #fff;
     color: #000;
 }
+
 .account {
     text-decoration: none;
     width: 95%;

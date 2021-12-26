@@ -6,4 +6,5 @@
   npm install react-icons --save,
   npm install material-table --save,
   npm install --save chart.js@^2.9.4 react-chartjs-2@^2.11.2
+- Copy public,src cua git vao public,src của myApp
  - Chay code: npm start

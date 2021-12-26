@@ -1,16 +1,23 @@
 import React from 'react';
 import Barchart from '../components/Barchart';
 import Linechart from '../components/Linechart';
-import PieChart from '../components/PieChart';
+import './home.css';
+import SumPeople from '../components/SumPeople';
+import PiechartSex from '../components/PiechartSex';
+import PiechartJob from '../components/PiechartJob';
+
 
 function Home() {
   return (
     <div className='home'>
-      <div className='map'>Đây là map</div>
+      <div className='map'>
+          <SumPeople />
+          <PiechartSex />
+          <PiechartJob />
+      </div>
       <div className='chart'>
-        <div><Barchart /></div>
-        <div><Linechart /></div> 
-        <div><PieChart /></div> 
+        <Barchart />
+        <Linechart />  
       </div>
     </div>
   );

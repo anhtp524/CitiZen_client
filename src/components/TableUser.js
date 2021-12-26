@@ -43,7 +43,7 @@ function TableUser() {
                     actionsColumnIndex: -1,
                     filtering: true,
                     search:false,
-                    headerStyle:{background:'rgb(58, 199, 241)',color:'#fff'},
+                    headerStyle:{background:'rgb(121, 128, 128)',color:'#fff'},
                     
                 }}
             />

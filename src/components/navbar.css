@@ -1,6 +1,7 @@
 .menu {
     background-color: rgb(19, 18, 18);
-    height: 667px;
+    min-height: 667px;
+    
 }
 .logo_name {
     color: #fff;

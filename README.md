@@ -6,3 +6,4 @@
   npm install react-icons --save,
   npm install material-table --save,
   npm install --save chart.js@^2.9.4 react-chartjs-2@^2.11.2
+ - Chay code: npm start
